@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year master's student in software engineering with a<br>passion for utilizing technology to tackle complex problems and develop innovative solutions.<br>My ultimate goal is to use my skills and expertise to create a positive impact on society through the power of technology.
+I am a first-year master's student in software engineering with a passion for utilizing technology to tackle complex problems and develop innovative solutions.<br>My ultimate goal is to use my skills and expertise to create a positive impact on society through the power of technology.
 
 
 # 💻 Tech Stack:
